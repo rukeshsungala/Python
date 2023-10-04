@@ -44,4 +44,20 @@ In this section you will learn about the Collection and Mapping types in Python
 2.set Type link:-https://youtu.be/MEPlLAjPvXY
 3.dict Type link:-https://youtu.be/TxkMPxZgGho
 
+Loops & Conditionals in Python
+In this section, you will learn more about Loops and Conditionals in Python
 
+1.While Loop link:-https://youtu.be/D0Nb2Fs3Q8c
+2.For Loop link:-https://youtu.be/OnDr4J2UXSA
+3.if Statement link:-https://youtu.be/II5WTVvryvk
+
+
+Introduction
+Welcome to the world of Pythonista! Let's jump into course now. This course covers:
+
+1.Functions
+2.List Comprehensions
+3.Iterators and Generators
+4.Classes and Objects in Python
+5.Closures and Decorators
+6.Descriptors and Properties
