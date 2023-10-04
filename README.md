@@ -61,3 +61,19 @@ Welcome to the world of Pythonista! Let's jump into course now. This course cove
 4.Classes and Objects in Python
 5.Closures and Decorators
 6.Descriptors and Properties
+
+1.Functions:-
+A function is a piece of code, capable of performing a similar task repeatedly.
+
+It is defined using def keyword in python.
+Syntax of a function :
+def <function_name>(<parameter1>, <parameter2>, ...):
+     'Function documentation'
+     function_body
+     return <value>         
+Parameters, return expression and documentation string are optional.
+
+Sample function - square
+def square(x):
+    'Returns square of a number.'
+    return x**2
